@@ -22,6 +22,7 @@
 
 
 ## License
+- [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 - Free to use to every one.
 
@@ -29,4 +30,8 @@
 ## Authors
 
 - [@Abdelrany](https://github.com/abdelrany)
+
+
+## 🚀 About Me
+Studied Web Developer is adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing, and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including C, UML, XML, Java, HTML/CSS,ASP.NET, ADO.NET, C#, IIS, Tomcat, and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
